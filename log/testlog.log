@@ -1,0 +1,110 @@
+2020-08-17 22:24:15,038 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-17 22:24:18,510 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-19 18:18:03,806 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-19 18:18:08,277 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-19 18:18:08,293 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-19 18:18:09,517 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-19 20:35:51,322 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-19 20:35:58,977 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-19 20:35:58,989 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-19 20:36:00,344 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-19 20:41:59,140 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-19 20:42:04,873 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-19 20:42:04,889 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-19 20:42:05,268 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-19 20:46:14,773 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-19 20:46:19,976 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-19 20:46:19,996 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-19 20:46:27,571 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-19 21:06:32,944 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-19 21:06:33,560 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: UNDEFINED
+2020-08-19 21:06:33,575 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-19 21:06:33,581 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: UNDEFINED
+2020-08-19 21:11:37,847 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-19 21:11:42,205 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-19 21:11:42,216 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-19 21:11:42,559 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 08:32:57,390 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 08:33:03,996 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 08:33:04,002 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 08:33:04,376 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 08:33:04,423 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 08:33:04,425 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: UNDEFINED
+2020-08-23 08:37:48,292 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 08:37:50,893 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 08:37:50,917 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 08:37:51,271 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 08:37:51,276 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 08:37:51,643 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: FAILED
+2020-08-23 08:38:39,063 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 08:38:42,425 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 08:38:42,436 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 08:38:42,833 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 08:38:42,847 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 08:38:43,225 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: FAILED
+2020-08-23 08:40:05,620 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 08:40:10,597 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 08:40:10,617 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 08:40:11,105 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 08:40:11,123 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 08:40:12,829 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: PASSED
+2020-08-23 08:42:38,970 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 08:42:42,478 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 08:42:42,491 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 08:42:43,065 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 08:42:43,078 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 08:42:44,703 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: PASSED
+2020-08-23 08:44:57,062 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 08:44:59,913 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 08:44:59,935 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 08:45:00,350 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 08:45:00,361 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 08:45:02,018 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: PASSED
+2020-08-23 09:07:46,326 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:07:51,090 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:07:51,104 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:07:51,748 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:07:51,759 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 09:07:53,918 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: PASSED
+2020-08-23 09:32:31,327 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:32:39,100 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:32:39,112 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:32:39,516 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:32:39,527 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 09:32:41,196 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: PASSED
+2020-08-23 09:36:08,227 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:36:11,823 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:36:11,843 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:36:12,263 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:36:12,274 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 09:36:14,059 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: PASSED
+2020-08-23 09:37:29,657 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:37:33,215 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:37:33,232 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:37:33,712 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:37:33,721 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 09:37:36,466 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: PASSED
+2020-08-23 09:39:15,817 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:39:19,216 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:39:19,226 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:39:19,613 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:39:19,625 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 09:39:21,403 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: PASSED
+2020-08-23 09:40:43,311 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:40:47,329 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:40:47,339 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:40:47,777 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:40:47,793 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 09:40:49,443 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: PASSED
+2020-08-23 09:41:41,243 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:41:45,985 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:41:45,997 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:41:46,448 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:41:46,459 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 09:41:48,083 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: PASSED
+2020-08-23 09:43:28,513 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:43:31,986 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:43:32,000 - setup.BaseClass -INFO - Validate Add Place API started execution 
+2020-08-23 09:43:32,424 - setup.BaseClass -INFO - Validate Add Place API finished execution and the status is: PASSED
+2020-08-23 09:43:32,451 - setup.BaseClass -INFO - Validate Get Place API started execution 
+2020-08-23 09:43:34,136 - setup.BaseClass -INFO - Validate Get Place API finished execution and the status is: PASSED
